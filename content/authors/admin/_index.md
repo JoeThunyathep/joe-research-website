@@ -19,8 +19,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/thunyathep-santhanavanich
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: TU DRESDEN & HFT Stuttgart 
+    url: https://www.hft-stuttgart.de/p/thunyathep-santhanavanich
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -37,8 +37,4 @@ superuser: true
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Joe is a researcher in the Department of Geoinformatics and Computer Science at the University of Applied Sciences Stuttgart (HFT Stuttgart) and a doctoral candidate at department of Geoinformatics, TU Dresden. His research interests primarily centre on GIScience and the applications, especially on the topics of 3D Spatial Data Infrastructure and Spatial Data Visualization.
