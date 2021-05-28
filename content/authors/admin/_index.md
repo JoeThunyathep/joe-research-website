@@ -23,15 +23,15 @@ organizations:
     url: https://www.hft-stuttgart.de/p/thunyathep-santhanavanich
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Doctoral Candidate in Geoinformatics.
+      institution: TU Dresden, Germany
+      year: 2019 - Present
+    - course: M.Sc. in Geoinformatics.
+      institution: University of Applied Sciences Stuttgart, Germany
+      year: 2016 - 2018
+    - course: BSc in Survey Engineering.
+      institution: Chulalongkorn University, Thailand
+      year: 2009 - 2013
 email: ""
 superuser: true
 highlight_name: false
