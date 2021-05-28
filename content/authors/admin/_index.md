@@ -5,9 +5,9 @@ avatar_filename: https://www.hft-stuttgart.de/fileadmin/Dateien/Profilbilder/_pr
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - SensorThings API
+  - Smart Cities
+  - Spatio-Temporal Observations
 social:
   - icon: envelope
     icon_pack: fas
