@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-28T20:35:13.761935Z'
+publishDate: '2021-05-28T20:46:28.173765Z'
 publication_types:
 - '2'
 abstract: Abstract. The recent advancement in Information &amp; Communication Technology
@@ -51,8 +51,7 @@ abstract: Abstract. The recent advancement in Information &amp; Communication Te
   of Germany. The navigation system is built up based on the routing engine pgRouting,
   which calculates the safest route based on the mentioned STAPI server and the road-network
   dataset from OpenStreetMap.
-publication: '*ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information
-  Sciences*'
+publication: '*ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci.*'
 url_pdf: https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/VI-4-W2-2020/143/2020/
 doi: 10.5194/isprs-annals-VI-4-W2-2020-143-2020
 ---
