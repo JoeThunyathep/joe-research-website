@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-28T20:46:27.580003Z'
+publishDate: '2021-05-29T12:57:51.010843Z'
 publication_types:
 - '2'
 abstract: Devices from the Internet of Things are being increasingly used in everyday

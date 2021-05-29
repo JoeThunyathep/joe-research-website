@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-28T20:46:27.873757Z'
+publishDate: '2021-05-29T12:57:51.328303Z'
 publication_types:
 - '2'
 abstract: 'The concept and implementation of Smart Cities is an important approach
