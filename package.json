@@ -1,0 +1,24 @@
+{
+  "name": "joe-research-website",
+  "version": "1.0.0",
+  "description": "<p align=\"center\"><a href=\"https://wowchemy.com\" target=\"_blank\" rel=\"noopener\"><img src=\"https://wowchemy.com/img/logo_200px.png\" alt=\"Wowchemy Website Builder\"></a></p>",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeThunyathep/joe-research-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeThunyathep/joe-research-website/issues"
+  },
+  "homepage": "https://github.com/JoeThunyathep/joe-research-website#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1"
+  }
+}
