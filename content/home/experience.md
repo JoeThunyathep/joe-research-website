@@ -44,8 +44,6 @@ experience:
     date_start: '2018-06-01'
     date_end: ''
     description: Doctoral Programme (cumulative dissertations) in a topic of the "Integration of Spatio-temporal Sensor Observations into Virtual City Models".
-        
-  
 
   - title: World Challenge Finland 2018 with UN, NASA WorldWind and ESA
     company: United Nations
@@ -64,8 +62,6 @@ experience:
     date_start: '2018-03-01'
     date_end: '2018-06-30'
     description: Joining the International Research Exchange Program "Zero Carbon Cities" as part of the Baden-Württemberg-STIPENDIUM scholarship for outstanding university students – a programme of the Baden-Württemberg Stiftung. (https://www.research-in-germany.org/dam/jcr:3724d9f5-66e4-4d20-aa50-0937a1b55e8d/Flyer_CITYtrans)
-
-  
 
 design:
   columns: '2'
