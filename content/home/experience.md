@@ -22,28 +22,30 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Doctoral Candidate
-    company: TU Dresden
-    company_url: ''
-    company_logo: TU-Dresden
-    location: California
-    date_start: '2018-06-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Researcher at Centre for Geodesy and Geoinformatics | Institute of Applied Research (IAF)
-    company: University of Applied Sciences Stuttgart 
-    company_url: ''
+  - title: Researcher/ Academic Staff
+    company: Institute of Applied Research (IAF), HFT Stuttgart, Germany 
+    company_url: 'https://www.hft-stuttgart.com/geomatics'
     company_logo: HFT_logo
     location: Stuttgart
     date_start: '2018-06-01'
     date_end: ''
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Responsibilities include:
+        * Teacher Assistance and Mentoring in the faculty of Geoinformatics and Computer Sciences.
+        * Conducting research in several projects in the Institute of Applied Research (IAF)
+        * The prototypical implementation of the 3D Smart City application using the 3D digital globes and 3D city models.
+        * Documentation of research project progress and project results
+  
+  - title: Doctoral Candidate
+    company: Department of Geosciences, TU Dresden, Germany
+    company_url: 'https://tu-dresden.de/bu/umwelt/geo'
+    company_logo: TU-Dresden
+    location: California
+    date_start: '2018-06-01'
+    date_end: ''
+    description: Doctoral Programme (cumulative dissertations) in a topic of the "Integration of Spatio-temporal Sensor Observations into Virtual City Models".
+        
+  
 
   - title: World Challenge Finland 2018 with UN, NASA WorldWind and ESA
     company: United Nations
