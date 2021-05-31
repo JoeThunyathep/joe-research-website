@@ -48,7 +48,7 @@ experience:
   - title: World Challenge Finland 2018 with UN, NASA WorldWind and ESA
     company: United Nations
     company_url: ''
-    company_logo: unitedNation
+    company_logo: org-gc
     location: Helsinki Area, Finland
     date_start: '2018-08-01'
     date_end: '2018-09-30'
