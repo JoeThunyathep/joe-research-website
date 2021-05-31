@@ -25,7 +25,7 @@ experience:
   - title: Doctoral Candidate
     company: TU Dresden
     company_url: ''
-    company_logo: org-gc
+    company_logo: TU-Dresden
     location: California
     date_start: '2018-06-01'
     date_end: ''
@@ -48,7 +48,7 @@ experience:
   - title: World Challenge Finland 2018 with UN, NASA WorldWind and ESA
     company: United Nations
     company_url: ''
-    company_logo: org-gc
+    company_logo: UN
     location: Helsinki Area, Finland
     date_start: '2018-08-01'
     date_end: '2018-09-30'
