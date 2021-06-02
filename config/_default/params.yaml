@@ -139,9 +139,24 @@ search:
     api_key: ''
     index_name: ''
     show_logo: false
+
+# To show your address on a map in the Contact widget, enter your latitude and longitude (above)
+  # and choose a map provider below.
+  #
+  # To use Google Maps, set `engine` to 1 and enter your API key that can be obtained here:
+  #   https://developers.google.com/maps/documentation/javascript/get-api-key
+  # To use OpenStreetMap tiles, set `engine` to 2.
+  # To use OpenStreetMap on a high traffic site, set `engine` to 3 and enter your API key that can be obtained here:
+  #   https://www.mapbox.com/studio/account/tokens
+  #
+  # Map provider:
+  #   0: No map
+  #   1: Google Maps
+  #   2: OpenStreetMap (Mapnik)
+  #   3: OpenStreetMap (Mapbox)
 map:
-  provider: ''
-  api_key: ''
+  provider: '3'
+  api_key: 'pk.eyJ1IjoidGh1bnlhdGhlcCIsImEiOiJjamFpOWV4a2gxd21vMndxdXd2M3VoY3hmIn0.jLlCscei0yH-ZHwcfxF_ug'
   zoom: 15
 marketing:
   google_analytics: ''
