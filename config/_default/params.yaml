@@ -30,8 +30,8 @@ address:
   country: Germany
   country_code: DE
 coordinates:
-  latitude: '48.7803251'
-  longitude: '9.1704566'
+  latitude: '48.77986'
+  longitude: '9.17357'
 directions: Enter Building 2 and take the stairs to Office 405 on Floor 4
 office_hours:
   - 'Monday 10:00 to 13:00'
