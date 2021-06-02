@@ -12,7 +12,7 @@ image:
   caption: OGC ISG Sprint by Steinbeis
   focal_point: Smart
 
-url_code: "https://steinbeis-3dps.eu/"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
