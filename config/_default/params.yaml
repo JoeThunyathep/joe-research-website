@@ -155,7 +155,7 @@ search:
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
 map:
-  provider: '3'
+  provider: Mapbox
   api_key: 'pk.eyJ1IjoidGh1bnlhdGhlcCIsImEiOiJjamFpOWV4a2gxd21vMndxdXd2M3VoY3hmIn0.jLlCscei0yH-ZHwcfxF_ug'
   zoom: 15
 marketing:
