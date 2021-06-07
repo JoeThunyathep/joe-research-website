@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const port = 80
+const port = 3001
 const cookieParser = require('cookie-parser');
 app.use(express.static('public'));
 app.use(cookieParser());
