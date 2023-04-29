@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: thunyathep.santhanavanich@hft-stuttgart.de
+# email: thunyathep.santhanavanich@hft-stuttgart.de
 # phone: 888 888 88 88
 address:
   street: Hochschule für Technik Stuttgart, Schellingstraße 24
@@ -32,15 +32,15 @@ address:
 coordinates:
   latitude: '48.77986'
   longitude: '9.17357'
-directions: Enter Building 2 and take the stairs to Office 405 on Floor 4
+# directions: Enter Building 2 and take the stairs to Office 405 on Floor 4
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-# contact_links:
-#   - icon: twitter
-#     icon_pack: fab
-#     name: DM Me
-#     link: 'https://twitter.com/Twitter'
+  - 'Monday 09:00 to 18:00'
+  - 'Wednesday 09:00 to 18:00'
+contact_links:
+  - icon: linkedin
+    icon_pack: fab
+    name: ThunyathepS
+    link: 'https://www.linkedin.com/in/thunyatheps/'
 #   - icon: skype
 #     icon_pack: fab
 #     name: Skype Me
